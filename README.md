@@ -1,2 +1,2 @@
-#Comp_math labs
+# Comp_math labs
 docs and code
